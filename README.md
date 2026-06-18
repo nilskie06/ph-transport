@@ -1,17 +1,17 @@
-# ph-transport
+# @ph-itdev/ph-transport
 
 npm package for transport system
 
 ## Installation
 
 ```bash
-npm install ph-transport
+npm install @ph-itdev/ph-transport
 ```
 
 ## Usage
 
 ```typescript
-import { calculateDistance, calculateETA, formatDistance } from 'ph-transport';
+import { calculateDistance, calculateETA, formatDistance } from '@ph-itdev/ph-transport';
 
 // Calculate distance between two coordinates
 const distance = calculateDistance(14.5995, 120.9842, 10.3157, 123.8854);

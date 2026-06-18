@@ -1,17 +1,17 @@
-# my-awesome-lib
+# ph-transport
 
 npm package for transport system
 
 ## Installation
 
 ```bash
-npm install my-awesome-lib
+npm install ph-transport
 ```
 
 ## Usage
 
 ```typescript
-import { calculateDistance, calculateETA, formatDistance } from 'my-awesome-lib';
+import { calculateDistance, calculateETA, formatDistance } from 'ph-transport';
 
 // Calculate distance between two coordinates
 const distance = calculateDistance(14.5995, 120.9842, 10.3157, 123.8854);

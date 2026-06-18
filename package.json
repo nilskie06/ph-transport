@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-lib",
+  "name": "ph-transport",
   "version": "1.0.0",
   "description": "npm package for transport system",
   "main": "./dist/index.cjs",
